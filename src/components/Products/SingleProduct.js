@@ -189,41 +189,19 @@ class SingleProduct extends Component {
               </div>
               <div className="product-details">
                 <div className="header">
-                  <h3>Dimensions (cm)</h3>
-                </div>
-                <div className="details-body">
-                  <div className="row">
-                    <div className="label">Height</div>
-                    <div className="value">156</div>
-                  </div>
-                  <div className="row">
-                    <div className="label">Width</div>
-                    <div className="value">80</div>
-                  </div>
-                  <div className="row">
-                    <div className="label">Depth</div>
-                    <div className="value">80</div>
-                  </div>
-                </div>
-              </div>
-              <div className="product-details">
-                <div className="header">
-                  <h3>Delivery & returns</h3>
+                  <h3>Delivery</h3>
                 </div>
                 <div className="details-body">
                   <div className="row">
                     <div className="label">Dispatch</div>
-                    <div className="value">Within 2 weeks</div>
+                    <div className="value">Within 3 weeks</div>
                   </div>
                   <div className="row">
                     <div className="label">Delivery</div>
-                    <div className="value">$5.95</div>
+                    <div className="value">Free delivery in the USA</div>
                   </div>
                 </div>
                 <div className="footer">
-                  <p>
-                    Read the <a href="/">delivery and returns policy</a>.
-                  </p>
                 </div>
               </div>
             </div>

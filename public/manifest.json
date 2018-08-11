@@ -1,21 +1,21 @@
 {
-  "short_name": "ILoveLamp",
-  "name": "I Love Lamp store",
+  "short_name": "active-hustle",
+  "name": "Active hustle",
   "icons": [
     {
       "src": "img/favicons/favicon.ico",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "img/logo/logo.png"
     },
     {
       "src": "img/favicons/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "img/logo/logo.png"
     },
     {
       "src": "img/favicons/android-chrome-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "img/logo/logo.png"
     }
   ],
   "start_url": "./index.html",
