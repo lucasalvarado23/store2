@@ -11,7 +11,7 @@ const MailingList = () => (
           Sign up to recieve{' '}
           product news, promotions, and updates.
         </p>
-        <form className="newsletter-form" method="post" noValidate>
+        <form className="newsletter-form" method="post"  action="https://formspree.io/lucasalvarado23@gmail.com">
           <input
             className="email"
             required="required"
