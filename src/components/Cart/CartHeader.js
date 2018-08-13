@@ -64,7 +64,6 @@ const CartHeader = props => {
    		c-1.5-1.6-3.7-2.5-5.9-2.4h-8.5V27.4z"
                 />
               </svg>
-            </div>
             <div className="small-logo" aria-hidden="true">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 54">
                 <path fill="currentColor" d="M28.2,48.2V6.4h4.7v41.8H28.2z" />
