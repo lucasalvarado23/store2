@@ -23,8 +23,7 @@ const CartHeader = props => {
         </nav>
         <div className="logo">
           <Link to="/" className="logo-link">
-            <span className="hide-content">I love lamp</span>
-            <div className="big-logo" aria-hidden="true">
+            <span className="hide-content">Active hustle</span>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596 54">
                 <path fill="currentColor" d="M41.6,48.1V6.3h4.7v41.8H41.6z" />
                 <path
