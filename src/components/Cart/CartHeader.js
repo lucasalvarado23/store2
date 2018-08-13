@@ -20,6 +20,7 @@ const CartHeader = props => {
         <nav className="primary-nav">
           <Link to="products">Products</Link>
           <Link to="styles">Styles</Link>
+          <link to="/"> Home</link>
         </nav>
         <nav className="secondary-nav">
           <CartCounter />
