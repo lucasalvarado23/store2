@@ -7,7 +7,7 @@ const Loading = () => (
         <div className="content">
           <div className="loading">
             <div className="loading-icon" aria-hidden="true">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106 54">
+              <svg src="../src/assets/img/logo/ILOVELAMP.png" viewBox="0 0 106 54">
                 <path
                   fill="currentColor"
                   d="M77.6,18.3c0,3.2-1.2,6.4-3.7,8.8l-21,21l-21-21c-4.9-4.9-4.9-12.8,0-17.7c2.4-2.4,5.6-3.7,8.9-3.7
